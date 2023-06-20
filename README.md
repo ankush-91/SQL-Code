@@ -1,1 +1,1 @@
-# beginner
+# Sample SQL Code by AM
